@@ -1,0 +1,14 @@
+:root {
+  box-sizing: border-box;
+  padding: 0;
+  --primary-color: #808000;
+  --secondary-color: #008080;
+}
+
+body {
+  background-color: var(--primary-color);
+}
+
+ul {
+  list-style: none;
+}
