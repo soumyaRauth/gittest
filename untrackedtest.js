@@ -1,2 +1,2 @@
-export const test = "test";
-console.log(`Test ${test}`);
+// export const test = "test";
+// console.log(`Test ${test}`);
