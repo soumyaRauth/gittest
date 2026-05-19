@@ -1,3 +1,3 @@
-const test = "test";
+export const test = "test";
 console.log("Test");
 console.log(test);
